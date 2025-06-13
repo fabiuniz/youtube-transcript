@@ -1,0 +1,21 @@
+# pip install yt-dlp yt-dlp --write-auto-sub --sub-lang pt --skip-download https://youtu.be/Euffrp4sR-8
+#Bash--> yt-dlp --write-auto-sub --sub-lang pt --skip-download https://youtu.be/1nOdalCaxls
+
+# URLs dos vídeos do YouTube para baixar transcrições
+# Uma URL por linha
+# Linhas que começam com # são comentários e serão ignoradas
+
+https://youtu.be/lJq8EhN3kw0
+
+# Adicione mais URLs aqui conforme necessário
+# https://youtu.be/exemplo
+# https://www.youtube.com/watch?v=exemplo
+
+# https://youtu.be/1nOdalCaxls
+# https://youtu.be/Bb-uRwAym7I
+# https://youtu.be/Et5XqHs_hHM
+# https://youtu.be/A3LsV80bSl8
+# https://youtu.be/rdCD8nfUH2c
+# https://youtu.be/nUW9EPvOzMo
+# https://youtu.be/921eay7E1DE
+# https://youtu.be/8PRjcG5djTM

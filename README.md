@@ -8,7 +8,7 @@
 
 Um script Python para baixar transcrições de vídeos do YouTube de forma prática, com suporte a múltiplos idiomas e processamento em lote.
 
-![Screenshot](../images/screenshot_cmd.png)
+![Screenshot](images/screenshot_cmd.png)
 
 ## 🌟 Recursos
 
